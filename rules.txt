@@ -82,7 +82,7 @@ _cF2_t8i.png 毱
 _cF6di9Y.png 壒
 _cFLkkaQ.png 掇
 _cFtB5zk.png (䚄)
-_cFvHGuZ.png _ (禇のような字。岩波文庫では頼)
+_cFvHGuZ.png (頼) (禇のような字。岩波文庫から頼)
 _cFwJhgA.png 攔
 _cFxe5yM.png 裒
 _cG6Wmjx.png 燸
@@ -129,7 +129,7 @@ _cMyyYsq.png 焰
 _cMzxZcr.png 樁
 _cNZ1rBN.png 瘥
 _cNamw3U.png 趄
-_cOMROsz.png (顢颟?)
+_cOMROsz.png 顢 (颟)
 _cOrMl01.png 㝵
 _cP9oMx2.png 繒
 _cPa0OHq.png 泐
@@ -217,7 +217,7 @@ _cc0hloI.png 撑
 _ccErbyQ.png 檯
 _ccGiJ4y.png 嬈
 _ccO9JVi.png 裵
-_ccRqtTU.png (祝土)
+_ccRqtTU.png (𡎺)
 _ccVzgAc.png 悅
 _cd7kG4E.png 塼
 _cdT3Aoz.png 神
@@ -259,127 +259,127 @@ _cibf1Rl.png 峒
 _cigRKYF.png (請)
 _cigVzwk.png 鋌
 _cit8gKw.png 脫
-_civlYSr.png
-_cj-xJh8.png
-_cj0gKKY.png
-_cjBrTBe.png
-_cj_wmIR.png
-_cjl52hg.png
-_cjmr1C4.png
-_cjqnUnR.png
-_cjwg2Qa.png
-_cjzfXVS.png
-_ck-qnPe.png
-_ck5F26u.png
+_civlYSr.png 雘
+_cj-xJh8.png 鏌
+_cj0gKKY.png 𨍏 (車度)
+_cjBrTBe.png 神
+_cj_wmIR.png 龐
+_cjl52hg.png 摝
+_cjmr1C4.png 蹰
+_cjqnUnR.png 鞚
+_cjwg2Qa.png 罣
+_cjzfXVS.png 飡
+_ck-qnPe.png 淩
+_ck5F26u.png 篙
 _ckLCAJm.png 卽
-_ckLI1c3.png
-_ckbAIcS.png
-_ckpXF_P.png
-_clECCI2.png
-_clFewj8.png
-_clQdE6i.png
-_clR1Prl.png
-_cl_r4Mr.png
-_cljK1xR.png
-_cm69Q9T.png
-_cmBP3hk.png
-_cmGhk_K.png
-_cmTyQoG.png
-_cmXl52m.png
-_cm_6HVU.png
-_cm_foj5.png
-_cml5pJF.png
-_cmsanwV.png
-_cnAgUfd.png
+_ckLI1c3.png 鈸
+_ckbAIcS.png (情)
+_ckpXF_P.png 苾
+_clECCI2.png 櫳
+_clFewj8.png 鶖
+_clQdE6i.png 漭
+_clR1Prl.png 颺
+_cl_r4Mr.png 蹋
+_cljK1xR.png 毿
+_cm69Q9T.png 濼
+_cmBP3hk.png 喏
+_cmGhk_K.png 輥
+_cmTyQoG.png 槵
+_cmXl52m.png 嚬
+_cm_6HVU.png 㹀
+_cm_foj5.png 睺
+_cml5pJF.png 屙
+_cmsanwV.png 埦
+_cnAgUfd.png 揲
 _cnNXfTq.png 既
-_cnNn24P.png
-_cnonxI1.png
-_co1AKat.png
-_co6pF0m.png
-_coB6co0.png
-_coQzVUy.png
-_cokLYJc.png
-_cov6k_Y.png
-_coycu3S.png
-_cp3qF1V.png
-_cp8_MJK.png
-_cpFbVHZ.png
+_cnNn24P.png 椸
+_cnonxI1.png 閫
+_co1AKat.png 飰
+_co6pF0m.png 𨁝
+_coB6co0.png 拄
+_coQzVUy.png (氵聒)
+_cokLYJc.png 䋺
+_cov6k_Y.png 窠
+_coycu3S.png 吧
+_cp3qF1V.png 㖒
+_cp8_MJK.png 牸
+_cpFbVHZ.png 藿
 _cpOpHXa.png 緣
-_cpqVBm-.png
-_cq4Rwve.png
-_cq5aOR_.png
-_cq8blvb.png
-_cqDMKM2.png
-_cqGlJqs.png
-_cqLGwk_.png
-_cqXo3yf.png
-_cqj6yrc.png
-_cr4aF7j.png
-_crA37Y5.png
-_crD26E7.png
-_crFHTn5.png
-_crFSfCW.png
-_crIA8j-.png
-_crSLSbT.png
-_crSkdR7.png
-_cre-mQb.png
-_crn2NQQ.png
-_crwGWcl.png
-_cs-H1t8.png
-_csCb9nz.png
-_csEzP0F.png
-_csYxhe6.png
-_cs_258M.png
-_cscCA1f.png
-_ct6hR_Q.png
-_ct7lU2E.png
-_ctFQ15t.png
+_cpqVBm-.png 蟬
+_cq4Rwve.png (術)
+_cq5aOR_.png 攞
+_cq8blvb.png 䖝
+_cqDMKM2.png 拖
+_cqGlJqs.png 悞
+_cqLGwk_.png 繁
+_cqXo3yf.png (習)
+_cqj6yrc.png 篾
+_cr4aF7j.png 磕
+_crA37Y5.png 鱍
+_crD26E7.png 閴
+_crFHTn5.png 邙
+_crFSfCW.png (翻)
+_crIA8j-.png (食兹)
+_crSLSbT.png 蔾
+_crSkdR7.png (飽)
+_cre-mQb.png 邐
+_crn2NQQ.png 磷
+_crwGWcl.png 蹭
+_cs-H1t8.png 㘅
+_csCb9nz.png (寧頁)
+_csEzP0F.png 迊
+_csYxhe6.png 德
+_cs_258M.png 缾
+_cscCA1f.png 牯
+_ct6hR_Q.png 纇
+_ct7lU2E.png 㦬
+_ctFQ15t.png 橛
 _ctGo09t.png 迦
-_ctI_7dm.png
-_ctYDgu0.png
-_cu4bNO6.png
-_cuBO0zX.png
-_cuGFxzL.png
-_cuRp57i.png
-_cu_nqpa.png
-_cun-0sw.png
-_cv4Cex7.png
-_cvNPzTS.png
-_cvVeXzK.png
-_cwKEnbV.png
-_cwM3Nh9.png
-_cwTFeYy.png
-_cwX-qdy.png
-_cwaYKcb.png
-_cwm5E3j.png
-_cwqdsmP.png
-_cwqrDpP.png
-_cwwHz5Q.png
-_cxApdq7.png
-_cxGIqph.png
-_cxOAt6v.png
-_cxnTW_W.png
-_cxxXc1A.png
-_cxz7Hag.png
-_cyEr4la.png
-_cyKazTE.png
-_cyLm4HO.png
-_cyTPLd6.png
+_ctI_7dm.png 棙
+_ctYDgu0.png 囉
+_cu4bNO6.png 罤
+_cuBO0zX.png 螗
+_cuGFxzL.png (楖)
+_cuRp57i.png 觶
+_cu_nqpa.png 猻
+_cun-0sw.png 葈
+_cv4Cex7.png 寬
+_cvNPzTS.png 縈
+_cvVeXzK.png (㞘?)
+_cwKEnbV.png 撐
+_cwM3Nh9.png 玼
+_cwTFeYy.png (碧巌録２５則畢竟如何。又た自ら代って云くの後に丸付き１)
+_cwX-qdy.png 攛
+_cwaYKcb.png 逭
+_cwm5E3j.png 剗
+_cwqdsmP.png 蠓
+_cwqrDpP.png (金兩)
+_cwwHz5Q.png 漪
+_cxApdq7.png 唼
+_cxGIqph.png 獹
+_cxOAt6v.png 猢
+_cxnTW_W.png 懵
+_cxxXc1A.png 圊
+_cxz7Hag.png 璨
+_cyEr4la.png 嗢
+_cyKazTE.png 憨
+_cyLm4HO.png 憒
+_cyTPLd6.png (てへん索)
 _cyTg_1x.png 說
-_cykUCIp.png
-_cyt19g5.png
+_cykUCIp.png 啐
+_cyt19g5.png 薝
 _cyuXxNM.png 敎
-_cz13Swv.png
-_cz764sf.png
-_cz8Ll7x.png
-_czKqOUx.png
-_czQmcOG.png
-_cz_rTxq.png
-_czb8oGE.png
-_czbtp5y.png
-_czeK11i.png
-_czgRlZR.png
-_czjoylW.png
-_czlhKY9.png
-_czp-uWr.png
-_czpz5sl.png
+_cz13Swv.png 眴
+_cz764sf.png 徧
+_cz8Ll7x.png (門畐)
+_czKqOUx.png 庾
+_czQmcOG.png 憎
+_cz_rTxq.png 㘞
+_czb8oGE.png 餻
+_czbtp5y.png 䙡
+_czeK11i.png 榸
+_czgRlZR.png 巢
+_czjoylW.png 說
+_czlhKY9.png 筭
+_czp-uWr.png 捋
+_czpz5sl.png 蘄
