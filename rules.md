@@ -297,7 +297,7 @@
 ![_co1AKat.png](images/_co1AKat.png) 飰 
 ![_co6pF0m.png](images/_co6pF0m.png) 𨁝 
 ![_coB6co0.png](images/_coB6co0.png) 拄 
-![_coQzVUy.png](images/_coQzVUy.png) (氵聒) (碧巌録二,
+![_coQzVUy.png](images/_coQzVUy.png) 𣽅 (碧巌録二,
 ![_cokLYJc.png](images/_cokLYJc.png) 䋺 
 ![_cov6k_Y.png](images/_cov6k_Y.png) 窠 
 ![_coycu3S.png](images/_coycu3S.png) 吧 
@@ -348,7 +348,7 @@
 ![_cvVeXzK.png](images/_cvVeXzK.png) 㞘 (碧巌録二,
 ![_cwKEnbV.png](images/_cwKEnbV.png) 撐 
 ![_cwM3Nh9.png](images/_cwM3Nh9.png) 玼 
-![_cwTFeYy.png](images/_cwTFeYy.png) () (碧巌録２５則畢竟如何。又た自ら代って云くの後に丸付き１,
+![_cwTFeYy.png](images/_cwTFeYy.png) 𣗖 (碧巌録２５則畢竟如何。http://fofa.foxue.org/2007/791_0530/94145.html)
 ![_cwX-qdy.png](images/_cwX-qdy.png) 攛 
 ![_cwaYKcb.png](images/_cwaYKcb.png) 逭 
 ![_cwm5E3j.png](images/_cwm5E3j.png) 剗 
