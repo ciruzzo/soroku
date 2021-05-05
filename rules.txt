@@ -9,13 +9,13 @@ _c1ofdwS.png 麤
 _c24Vclg.png 嚧
 _c2919Qh.png 獃 
 _c2GUN0V.png 媿
-_c2MwYCQ.png 氎 (岩波文庫では異体字の㲲)
+_c2MwYCQ.png 氎 (㲲 岩波文庫)
 _c2X4VI3.png 䗫
 _c2_vmX7.png 哆
 _c2nw8ed.png 裩
 _c2weiSi.png 悱
 _c3ZHzzE.png 嘳
-_c3b-8qd.png (忒)
+_c3b-8qd.png 𢖺 (忒 岩波文庫) 
 _c3f3cLp.png 甑
 _c3gJYrc.png 鬔
 _c3hPGUn.png 啒
@@ -34,9 +34,9 @@ _c6lU0kH.png 殽
 _c6rFhG-.png 氄
 _c6sk7GU.png 臊
 _c70WpBb.png 咦
-_c7_OZWV.png (餓)
+_c7_OZWV.png 餓 *
 _c7g_AUa.png 㤆
-_c7klNPe.png (情)
+_c7klNPe.png 情 *
 _c8J-9zJ.png 琊
 _c8JsoUV.png 䄌
 _c8LIWNE.png 儞
@@ -60,12 +60,12 @@ _cBlgg60.png 蹬
 _cBw5_rp.png 窣
 _cCAkfZQ.png 缼
 _cCKPs3z.png 虛
-_cCQv_7X.png (尞頁)
-_cCc7hMy.png 虛 (_cCKPs3z.png)
-_cCjVaDr.png (馬展)
+_cCQv_7X.png [顟] (尞頁) (從容録二, http://fofa.foxue.org/2007/792_0531/94159.html)
+_cCc7hMy.png 虛 
+_cCjVaDr.png [輾] (馬展) (碧巌録一 まろぶ, 從容録一, http://fofa.foxue.org/2007/791_0530/94146.html,  http://buddhaspace.org/dict/fk/data/%25E9%25A2%25A8%25E7%25A9%25B4%25E9%2590%25B5%25E7%2589%259B%25E6%25A9%259F.html)
 _cD6xSJc.png 兕
 _cD8gvsD.png 搽
-_cDA9JTC.png (月禽)
+_cDA9JTC.png 𦡬 (genzou24,岩波文庫)
 _cDFye3f.png 幞
 _cDHi0OM.png 埿
 _cD_tjov.png 筠
@@ -81,8 +81,8 @@ _cEog3ho.png 踢
 _cF2_t8i.png 毱
 _cF6di9Y.png 壒
 _cFLkkaQ.png 掇
-_cFtB5zk.png (䚄)
-_cFvHGuZ.png (頼) (禇のような字。岩波文庫から頼)
+_cFtB5zk.png 䚄 *
+_cFvHGuZ.png [頼] (褚?) (岩波文庫 genzou46 碧巌録二)
 _cFwJhgA.png 攔
 _cFxe5yM.png 裒
 _cG6Wmjx.png 燸
@@ -91,7 +91,7 @@ _cH3en9i.png 坼
 _cH6EBTT.png 欤
 _cHFu1g8.png 洹
 _cHkhRfy.png 趦
-_cI1YBsQ.png (捨)
+_cI1YBsQ.png 捨 *
 _cI7s3xO.png 趯
 _cI9ZCGZ.png 攙
 _cI9ubTD.png 韛
@@ -100,14 +100,14 @@ _cIe6sJ9.png 酤
 _cIfCa8T.png 跉
 _cJGJAuO.png 臏
 _cJN4kRh.png 彴
-_cJP7RJ-.png (麻)
+_cJP7RJ-.png 麻 *
 _cJlPENg.png 迤
 _cJmCJu7.png 鎁
 _cK2QBRl.png 緗
 _cKCt5ys.png 筯
 _cKO6F0M.png 縑
 _cKRoZF1.png 恡
-_cKabH-y.png (拌) (拚のような字)
+_cKabH-y.png [拌] (扌弃) (無門關, 拚, http://www.rulaizang.cn/chanzong/jingdianyulu/zushiyulu/7032.html )
 _cKb9Iag.png 羼
 _cKkkErQ.png 邛
 _cKuK4L4.png 洎
@@ -121,7 +121,7 @@ _cLhgFXB.png 趕
 _cLpBaxK.png 灃
 _cLt0ZEi.png 淸
 _cLw6fRy.png 煞
-_cM1mr0_.png (己の下に十　畢)
+_cM1mr0_.png [畢] * (己十, genzou27, 畢の略字)
 _cM4bGMH.png 籙
 _cMSEIpo.png 嘈
 _cMUyYFU.png 珏
@@ -129,7 +129,7 @@ _cMyyYsq.png 焰
 _cMzxZcr.png 樁
 _cNZ1rBN.png 瘥
 _cNamw3U.png 趄
-_cOMROsz.png 顢 (颟)
+_cOMROsz.png 顢 
 _cOrMl01.png 㝵
 _cP9oMx2.png 繒
 _cPa0OHq.png 泐
@@ -156,7 +156,7 @@ _cT2pL7H.png 齅
 _cT3LhM9.png 聃
 _cTGU2_X.png 縕
 _cTaBTau.png 蕖
-_cTdai1G.png 蘿
+_cTdai1G.png 籮
 _cTiM-va.png 飈
 _cTmSzen.png 懞
 _cTu9hq6.png 廕
@@ -203,7 +203,7 @@ _cZ9niqj.png 莂
 _cZtgdrL.png 夤
 _c_FhWgE.png 挃
 _c_GFJ-l.png 靑
-_c_czhg_.png (䭔)
+_c_czhg_.png 䭔 *
 _caEgBF_.png 跎
 _caGyXqK.png 莾
 _caQaRBr.png 袟
@@ -217,7 +217,7 @@ _cc0hloI.png 撑
 _ccErbyQ.png 檯
 _ccGiJ4y.png 嬈
 _ccO9JVi.png 裵
-_ccRqtTU.png (𡎺)
+_ccRqtTU.png 𡎺 *
 _ccVzgAc.png 悅
 _cd7kG4E.png 塼
 _cdT3Aoz.png 神
@@ -256,7 +256,7 @@ _ciFIf4x.png 噇
 _ciPFfa0.png 閒
 _ciV6I3p.png 漚
 _cibf1Rl.png 峒
-_cigRKYF.png (請)
+_cigRKYF.png 請 *
 _cigVzwk.png 鋌
 _cit8gKw.png 脫
 _civlYSr.png 雘
@@ -273,7 +273,7 @@ _ck-qnPe.png 淩
 _ck5F26u.png 篙
 _ckLCAJm.png 卽
 _ckLI1c3.png 鈸
-_ckbAIcS.png (情)
+_ckbAIcS.png 情 *
 _ckpXF_P.png 苾
 _clECCI2.png 櫳
 _clFewj8.png 鶖
@@ -297,7 +297,7 @@ _cnonxI1.png 閫
 _co1AKat.png 飰
 _co6pF0m.png 𨁝
 _coB6co0.png 拄
-_coQzVUy.png (氵聒)
+_coQzVUy.png 𣽅 (碧巌録二, http://fofa.foxue.org/2007/791_0531/94150.html)
 _cokLYJc.png 䋺
 _cov6k_Y.png 窠
 _coycu3S.png 吧
@@ -306,27 +306,27 @@ _cp8_MJK.png 牸
 _cpFbVHZ.png 藿
 _cpOpHXa.png 緣
 _cpqVBm-.png 蟬
-_cq4Rwve.png (術)
+_cq4Rwve.png 術 *
 _cq5aOR_.png 攞
 _cq8blvb.png 䖝
 _cqDMKM2.png 拖
 _cqGlJqs.png 悞
 _cqLGwk_.png 繁
-_cqXo3yf.png (習)
+_cqXo3yf.png 習 *
 _cqj6yrc.png 篾
 _cr4aF7j.png 磕
 _crA37Y5.png 鱍
 _crD26E7.png 閴
 _crFHTn5.png 邙
-_crFSfCW.png (翻)
-_crIA8j-.png (食兹)
+_crFSfCW.png 翻 *
+_crIA8j-.png 𩝐 (從容録二, http://fofa.foxue.org/2007/792_0531/94159.html)
 _crSLSbT.png 蔾
-_crSkdR7.png (飽)
+_crSkdR7.png 飽 *
 _cre-mQb.png 邐
 _crn2NQQ.png 磷
 _crwGWcl.png 蹭
 _cs-H1t8.png 㘅
-_csCb9nz.png (寧頁)
+_csCb9nz.png 𩕳 (genzou03 etc)
 _csEzP0F.png 迊
 _csYxhe6.png 德
 _cs_258M.png 缾
@@ -339,21 +339,21 @@ _ctI_7dm.png 棙
 _ctYDgu0.png 囉
 _cu4bNO6.png 罤
 _cuBO0zX.png 螗
-_cuGFxzL.png (楖)
+_cuGFxzL.png 楖 *
 _cuRp57i.png 觶
 _cu_nqpa.png 猻
 _cun-0sw.png 葈
 _cv4Cex7.png 寬
 _cvNPzTS.png 縈
-_cvVeXzK.png (㞘?)
+_cvVeXzK.png 㞘 (碧巌録二, http://fofa.foxue.org/2007/791_0531/94150.html)
 _cwKEnbV.png 撐
 _cwM3Nh9.png 玼
-_cwTFeYy.png (碧巌録２５則畢竟如何。又た自ら代って云くの後に丸付き１)
+_cwTFeYy.png 𣗖 (碧巌録２５則畢竟如何。http://fofa.foxue.org/2007/791_0530/94145.html)
 _cwX-qdy.png 攛
 _cwaYKcb.png 逭
 _cwm5E3j.png 剗
 _cwqdsmP.png 蠓
-_cwqrDpP.png (金兩)
+_cwqrDpP.png 𨨄 
 _cwwHz5Q.png 漪
 _cxApdq7.png 唼
 _cxGIqph.png 獹
@@ -364,14 +364,14 @@ _cxz7Hag.png 璨
 _cyEr4la.png 嗢
 _cyKazTE.png 憨
 _cyLm4HO.png 憒
-_cyTPLd6.png (てへん索)
+_cyTPLd6.png 𢱢 (genzou03 etc)
 _cyTg_1x.png 說
 _cykUCIp.png 啐
 _cyt19g5.png 薝
 _cyuXxNM.png 敎
 _cz13Swv.png 眴
 _cz764sf.png 徧
-_cz8Ll7x.png (門畐)
+_cz8Ll7x.png 𨵩 
 _czKqOUx.png 庾
 _czQmcOG.png 憎
 _cz_rTxq.png 㘞
