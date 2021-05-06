@@ -82,7 +82,7 @@ _cF2_t8i.png 毱
 _cF6di9Y.png 壒
 _cFLkkaQ.png 掇
 _cFtB5zk.png 䚄 *
-_cFvHGuZ.png [頼] (褚?) (岩波文庫 genzou46 碧巌録二)
+_cFvHGuZ.png 頼 (褚?) (岩波文庫 genzou46 碧巌録二)
 _cFwJhgA.png 攔
 _cFxe5yM.png 裒
 _cG6Wmjx.png 燸

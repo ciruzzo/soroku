@@ -60,19 +60,25 @@ def replace_image(buf):
   # pattern for genzo
   spattern1 = "<img width=\"16\" height=\"16\" src=\""
   epattern1 = "\" border=\"0\">"
+  # pattern for genzo title
+  spattern2 = "<img width=\"24\" height=\"24\" src=\""
+  epattern2 = "\" border=\"0\">"
   # pattern for others 
-  spattern2 = "<img src=\""
-  epattern2 = "\" width=\"16\" height=\"16\" border=\"0\">"
+  spattern3 = "<img src=\""
+  epattern3 = "\" width=\"16\" height=\"16\" border=\"0\">"
 
   if buf.find(spattern1) >= 0:
-    return do_replace(buf, spattern1, epattern1)
+    buf1, hit1, miss1 = do_replace(buf, spattern1, epattern1)
+    buf2, hit2, miss2 = do_replace(buf1, spattern2, epattern2)
+    return buf2, (hit1+hit2), (miss1+miss2)  
   else:
-    return do_replace(buf, spattern2, epattern2)
+    return do_replace(buf, spattern3, epattern3)
 
 def main ():
   fromdir = "shomonji_orgdata"
-  todir = "output"
+  todir = "html"
 
+  thit,tmiss = 0,0
   for (dirpath, dirnames, filenames) in os.walk(fromdir):
     ndirpath = todir + dirpath[len(fromdir):]
     if not os.path.isdir(ndirpath):
@@ -91,8 +97,11 @@ def main ():
           buf2, hit, miss = replace_image(buf)
           result = replace_conentType(buf2)
           print (fromfile, hit, miss)
+          thit += hit
+          tmiss += miss
 
         with codecs.open(tofile, mode='w', encoding='utf8') as file:
           file.write(result)
 
+  print ("total:", thit, tmiss)
 main()

@@ -82,7 +82,7 @@
 ![_cF6di9Y.png](images/_cF6di9Y.png) 壒
 ![_cFLkkaQ.png](images/_cFLkkaQ.png) 掇
 ![_cFtB5zk.png](images/_cFtB5zk.png) 䚄
-![_cFvHGuZ.png](images/_cFvHGuZ.png) [頼]
+![_cFvHGuZ.png](images/_cFvHGuZ.png) 頼
 ![_cFwJhgA.png](images/_cFwJhgA.png) 攔
 ![_cFxe5yM.png](images/_cFxe5yM.png) 裒
 ![_cG6Wmjx.png](images/_cG6Wmjx.png) 燸
