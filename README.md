@@ -57,12 +57,17 @@ $ sh rules.sh
 [対応一覧](rules.md)
 
 
-## フォント
+## 参考情報
 
+### フォント
+
+上記の対応一覧の文字のうち、
 見えない文字がある場合、以下のフォントをインストールすると、見えるようになるかもしれません。
+
+
 [花園フォント](https://ja.osdn.net/projects/hanazono-font/)
 
-## 漢字の検索に便利だったツール
+### 漢字の検索に便利だったツール
 
 [グリフウィキ(GlyphWiki)](https://glyphwiki.org/wiki/GlyphWiki:%e3%83%a1%e3%82%a4%e3%83%b3%e3%83%9a%e3%83%bc%e3%82%b8)
 
@@ -71,12 +76,12 @@ $ sh rules.sh
 [Unicode文字一覧表](https://tools.m-bsys.com/ex/unicode_table.php)
 
 
-## 現代中国語のデジタルアーカイブ
+### 現代中国語のデジタルアーカイブ
 
 [万松老人评唱天童觉和尚颂古从容庵录](http://fofa.foxue.org/fjyw/sutra_zzb/792/)
 
 [佛果圜悟禅师碧岩录](http://fofa.foxue.org/fjyw/sutra_zzb/791/)
 
-## 日本のアーカイブ
+### 日本のアーカイブ
  
 [大正蔵検索](https://21dzk.l.u-tokyo.ac.jp/SAT/satdb2015.php?)
