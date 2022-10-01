@@ -1,5 +1,5 @@
 import codecs
-import os
+import os, sys
 
 # initializing the database
 rules = "rules.txt"
@@ -45,8 +45,8 @@ def do_replace(buf, spattern, epattern):
 #      print ("found ", image, dict[image])
 
       # replaced character is shown in red 
-      #result += buf[pos:npos] + dict[image]
-      result += buf[pos:npos] + "<span style=\"color:red;\">" + dict[image] + "</span>"
+      #result += buf[pos:npos] + "<span style=\"color:red;\">" + dict[image] + "</span>"
+      result += buf[pos:npos] + dict[image]
       hit += 1
     else:
       result += buf[pos:n2pos]
@@ -75,7 +75,7 @@ def replace_image(buf):
     return do_replace(buf, spattern3, epattern3)
 
 def main ():
-  fromdir = "shomonji_orgdata"
+  fromdir = "../shomonji/shomonji.or.jp/soroku"
   todir = "html"
 
   thit,tmiss = 0,0
@@ -85,7 +85,8 @@ def main ():
       os.mkdir(ndirpath)
   
     for file in filenames:
-      if file.find(".html") > 0: 
+      #if file.find(".html") > 0: 
+      if file.find(".htm") > 0: 
         
         fromfile = dirpath+"/"+file
         tofile = ndirpath+"/"+file
@@ -104,4 +105,14 @@ def main ():
           file.write(result)
 
   print ("total:", thit, tmiss)
+
+def main2():
+  buf = sys.stdin.read()
+  buf2, hit, miss = replace_image(buf)
+  print (hit, miss)
+
+  sys.stdout.write(buf2)
+
+
+
 main()
