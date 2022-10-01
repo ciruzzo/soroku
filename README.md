@@ -32,7 +32,13 @@ $ sh html2md.sh
 
 - 結果のファイルは[こちら](soroku.md)に。
 
-- 上記の結果のファイルをごちゃごちゃ変形してKindle用のhtmlに直したものを[こちらに](Kindle_html)に置いた。Send-to-KindleでKindleに入れて読むことができます。
+
+htmlからのhtmlの変換で、
+``
+sh mkgenzou.sh > Kindle_html/正法眼蔵.html
+sh mkothers.sh
+``
+- Kindle用のhtmlに直したものを[こちらに](Kindle_html)に置いた。Send-to-KindleでKindleに入れて読むことができます。
 
 - 以下で、rules.txtを見やすくした[対応一覧](rules.md)の生成。
 
