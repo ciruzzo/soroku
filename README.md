@@ -33,7 +33,8 @@ $ sh html2md.sh
 - 結果のファイルは[こちら](soroku.md)に。
 
 
-htmlからのhtmlの変換で、
+- htmlからのhtmlの変換で、
+
 ``
 sh mkgenzou.sh > Kindle_html/正法眼蔵.html
 sh mkothers.sh
