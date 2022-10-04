@@ -1,15 +1,17 @@
-# sh mkgenzou.sh > Kindle_html/正法眼蔵.html
+# sh mkgenzou.sh |python unicodenormalize.py > Kindle_html/正法眼蔵.html
 
 basedir="html/genzou"
 
 cat kindleHtml.tmpl | sed 's/TITLE/正法眼藏/'
 
+echo "<ol>"
 grep bgcolor $basedir/genzou*/index.html | 
 sed 's/html\/genzou\//<li><a href="#/' | 
 sed 's/color="#000000"//' |
 sed 's/color="#0000ff"//' |
 sed 's/\/index.html:<body bgcolor="#ffffff"><font size=\"+2\" >/">/' | 
 sed 's/<\/font><br>/<\/a><\/li>/'
+echo "</ol>"
 
 
 echo "<hr>"
