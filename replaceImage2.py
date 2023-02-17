@@ -2,11 +2,6 @@ import codecs
 import unicodedata
 import os, sys
 
-
-
-
-
-
 # initializing the database
 rules = "rules.txt"
 
@@ -62,14 +57,18 @@ def replace_image(buf):
     buf1, hit1, miss1 = do_replace(buf, spattern1, epattern1)
     buf2, hit2, miss2 = do_replace(buf1, spattern2, epattern2)
     return buf2, (hit1+hit2), (miss1+miss2)  
+  elif buf.find(spattern2) >= 0:
+    return do_replace(buf, spattern2, epattern2)
   else:
     return do_replace(buf, spattern3, epattern3)
 
 def main():
-  sys.stdin.reconfigure(encoding='Shift_JIS')
+  coding = sys.argv[1]  
+#  sys.stdin.reconfigure(encoding='Shift_JIS')
+  sys.stdin.reconfigure(encoding=coding)
   buf = sys.stdin.read()
   buf2, hit, miss = replace_image(buf)
-  print (hit, miss)
+#  print ("***", hit, miss)
 
   buf3 = unicodedata.normalize('NFC', buf2)
   sys.stdout.write(buf3)
