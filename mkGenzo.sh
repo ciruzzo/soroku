@@ -2,7 +2,7 @@
 
 basedir="shomonji_org/genzou"
 
-cat kindleHtml.tmpl | sed 's/TITLE/正法眼藏/'
+cat htmlHeader.tmpl | sed 's/TITLE/正法眼藏/'
 
 echo "<ol>"
 
