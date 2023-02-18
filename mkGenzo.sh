@@ -1,4 +1,4 @@
-# sh mkGenzo.sh > Kindle_html/正法眼蔵.html
+# sh mkGenzo.sh | python replaceImage.py > result/正法眼蔵.html && mv statfile.txt result/stat_正法眼蔵.txt
 
 basedir="shomonji_org/genzou"
 
@@ -14,7 +14,7 @@ do
     sed 's/<body bgcolor="#ffffff"><font size=\"+2\" >//' | 
     sed 's/<\/font><br>/<\/a><\/li>/')
   echo "<li><a href=\"#$f\">$t"
-done | python replaceImage2.py UTF-8
+done 
 
 echo "</ol>"
 
@@ -29,7 +29,7 @@ do
   echo "<h3 id=\""$f"\">"$title"</h3>"
   cat $basedir/$f/index.html | iconv -f sjis | head -n -2 | tail -n +6 
 
-done | python replaceImage2.py UTF-8
+done 
 
 echo "</body>"
 echo "</html>"

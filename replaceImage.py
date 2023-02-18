@@ -5,6 +5,8 @@ import os, sys
 # initializing the database
 rules = "rules.txt"
 
+stat = {}
+
 dict = {}
 with codecs.open(rules, mode='r', encoding='utf8') as file:
   lines = file.read().splitlines()
@@ -25,7 +27,7 @@ def do_replace(buf, spattern, epattern):
     if epos < 0: break
     image = os.path.basename(buf[npos+len(spattern):epos])  # removing dirname 
     n2pos = epos + len(epattern)
-#    print ("testing ", image)
+
     if image == "html": print (buf[npos+len(spattern):epos])
     if image in dict:
 #      print ("found ", image, dict[image])
@@ -33,6 +35,11 @@ def do_replace(buf, spattern, epattern):
       # replaced character is shown in red 
       #result += buf[pos:npos] + "<span style=\"color:red;\">" + dict[image] + "</span>"
       result += buf[pos:npos] + dict[image]
+      if dict[image] in stat:
+        stat[dict[image]] += 1
+      else:
+        stat[dict[image]] = 1
+
       hit += 1
     else:
       result += buf[pos:n2pos]
@@ -62,15 +69,21 @@ def replace_image(buf):
   else:
     return do_replace(buf, spattern3, epattern3)
 
+# input should be coded by UTF-8
 def main():
-  coding = sys.argv[1]  
-#  sys.stdin.reconfigure(encoding='Shift_JIS')
-  sys.stdin.reconfigure(encoding=coding)
   buf = sys.stdin.read()
   buf2, hit, miss = replace_image(buf)
 #  print ("***", hit, miss)
 
   buf3 = unicodedata.normalize('NFC', buf2)
+
+
   sys.stdout.write(buf3)
+
+  f = open('statfile.txt', 'w', encoding='utf-8')
+  for k in stat.keys():
+    f.write (k + ": " +  str(stat[k]) + '\n')
+  f.close()
+
 
 main()
